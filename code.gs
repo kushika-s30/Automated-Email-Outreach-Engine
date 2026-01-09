@@ -4,7 +4,7 @@
  */
 
 function sendEmails() {
-  // ========= CONFIGURATION =========
+  // ========= CONFIGURATION ========
   const SHEET_NAME = "Sheet1";                 // Name of the sheet with recipient data
   const SPREADSHEET_URL = "PASTE_SHEET_URL";   // Google Sheet URL
   const EMAIL_SUBJECT = "Your Email Subject";
