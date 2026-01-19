@@ -1,7 +1,7 @@
 # Automated Email Outreach Engine
 
 - **Pain Point:** Manually sending out personalized outreach emails is time-consuming. Third-party cold email applications are paid and often come with data limits.
-- **Solution**: An Automated Email Outreach Engine that collects investor details from a spreadsheet, autofills a standard email template accordingly and sends up to 1500 emails per day.
+- **Solution**: An Automated Email Outreach Engine that collects email details from a spreadsheet, autofills a standard email template accordingly and sends up to 1500 emails per day.
 - **Tools:** Javascript and Google Workspace.
 - **Result:** Saved around 7 hours/week of manual effort. Reduced dependency on third-party apps.
 
